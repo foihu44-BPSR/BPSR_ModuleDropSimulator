@@ -18,12 +18,19 @@
 inventory.csvの作り方
 
 1.https://github.com/honononta-2/STModuleManagerをダウンロード
+
 2.スタレゾと1のプログラムを同時に起動
+
 3.プログラム側の言語設定を英語にする
+
 4.csv形式でモジュールのリストを作成
+
 5.スプレッドシートにインポート
+
 6.Type,Rarity,Total,Obtained Atの列を削除
+
 7.1行目を削除
+
 8.csv形式でダウンロードし、inventory.csvの1行目をそのままにコピペ
 
 スタレゾのパケットについてはまだ無知なので暇があったら自動で取得する機能を追加します。

@@ -17,7 +17,7 @@
 
 inventory.csvの作り方
 
-1.https://github.com/honononta-2/STModuleManagerをダウンロード
+1.https://github.com/honononta-2/STModuleManager をダウンロード
 
 2.スタレゾと1のプログラムを同時に起動
 
